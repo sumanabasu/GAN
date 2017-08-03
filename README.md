@@ -1,3 +1,3 @@
 # GAN
 
-** WGAN (TensorFlow implementation)
+### WGAN (TensorFlow implementation)
