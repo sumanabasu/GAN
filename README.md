@@ -1,1 +1,3 @@
 # GAN
+
+** WGAN (TensorFlow implementation)
