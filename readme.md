@@ -7,6 +7,7 @@ McGill University
 Student ID : 260727568
 
 Assignment - 1
+
 Question 4
 
 ## Prerequisites
@@ -17,7 +18,9 @@ Question 4
 ## Run
 
 From terminal:
+
 $ python Q4.py
+
 (modify path to Q4.py as per directory structure, if required)
 
 ## Output
