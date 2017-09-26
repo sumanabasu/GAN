@@ -1,7 +1,9 @@
 ## Author
 
 Name : Sumana Basu
+
 McGill University
+
 Student ID : 260727568
 
 Assignment - 1
