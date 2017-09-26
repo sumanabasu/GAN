@@ -11,8 +11,8 @@ Question 4
 
 ## Prerequisites
 
-numpy
-matplotlib
+* numpy
+* matplotlib
 
 ## Run
 
